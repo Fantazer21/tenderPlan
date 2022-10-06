@@ -1,10 +1,11 @@
 import React from 'react';
-import './App.css';
+import styles from "./app.module.scss"
+import Main from "./ui/main/main";
 
 function App() {
   return (
-    <div className="App">
-
+    <div className={styles.appWrapper}>
+        <Main/>
     </div>
   );
 }

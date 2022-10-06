@@ -1,0 +1,51 @@
+@import "src/assets/styles/colors.scss";
+
+.mainWrapper {
+  width: 1000px;
+  height: 1000px;
+  //border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.chip {
+  background-color: $blue;
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 6px;
+  margin: 20px 10px 0 0;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.input {
+  border: none;
+  outline: none;
+  width: 250px;
+  height: 40px;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.inputChip {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  width: 250px;
+  height: 40px;
+  font-size: 20px;
+  background-color: $blue
+}
+
+.removeChipButton {
+  width: 20px;
+  height: 40px;
+  cursor: pointer;
+  background-color: $blue;
+  border: none;
+}
