@@ -31,7 +31,13 @@
   margin-top: 20px;
   padding: 10px;
 }
-
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.error {
+  color: $red;
+}
 .inputChip {
   cursor: pointer;
   outline: none;
