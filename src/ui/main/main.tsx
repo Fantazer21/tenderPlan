@@ -1,7 +1,5 @@
 import React, {useState} from 'react';
 import styles from "./main.module.scss"
-import {logDOM} from "@testing-library/react";
-import {log} from "util";
 
 type ChipType = {
     id: number
