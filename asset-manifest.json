@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenderPlan/static/css/main.3de8e845.css",
+    "main.js": "/tenderPlan/static/js/main.eb274445.js",
+    "static/js/787.26204a1d.chunk.js": "/tenderPlan/static/js/787.26204a1d.chunk.js",
+    "index.html": "/tenderPlan/index.html",
+    "main.3de8e845.css.map": "/tenderPlan/static/css/main.3de8e845.css.map",
+    "main.eb274445.js.map": "/tenderPlan/static/js/main.eb274445.js.map",
+    "787.26204a1d.chunk.js.map": "/tenderPlan/static/js/787.26204a1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de8e845.css",
+    "static/js/main.eb274445.js"
+  ]
+}
